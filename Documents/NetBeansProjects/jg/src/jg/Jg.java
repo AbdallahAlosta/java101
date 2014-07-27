@@ -5,11 +5,6 @@
  */
 
 package jg;
-
-/**
- *
- * @author Java
- */
 public class Jg {
 
     /**
